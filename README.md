@@ -12,8 +12,8 @@ kimjongmyung/
 ├── ui_module.py           # PyQt6 기반 GUI 구현 · 사용자 입력 처리 & 결과 표시
 ├── calculator_module.py   # 핵심 계산 로직 · 상태 관리 & 연산 수행
 ├── operator_module.py     # 다양한 연산자 클래스 정의 · Strategy 패턴 연산 구현
-├── state_module.py        # 계산기의 상태 클래스 정의 · State 패턴 동작 관리
-└── tests/                 # pytest 시나리오 (정상·예외 총 45 케이스)
+└── state_module.py        # 계산기의 상태 클래스 정의 · State 패턴 동작 관리
+
 ```
 
 ---
@@ -25,7 +25,7 @@ kimjongmyung/
 cd kimjongmyung
 
 # 2) 의존성 설치
-pip install -r requirements.txt
+pip install PyQt6
 
 # 3) 실행
 python main.py
