@@ -12,6 +12,7 @@ kimjongmyung/
 ├── ui_module.py           # PyQt6 기반 GUI 구현 · 사용자 입력 처리 & 결과 표시
 ├── calculator_module.py   # 핵심 계산 로직 · 상태 관리 & 연산 수행
 ├── operator_module.py     # 다양한 연산자 클래스 정의 · Strategy 패턴 연산 구현
+├── Calculator.ui          # Qt Designer XML · 버튼·디스플레이 레이아웃 정의
 └── state_module.py        # 계산기의 상태 클래스 정의 · State 패턴 동작 관리
 
 ```
