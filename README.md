@@ -1,9 +1,9 @@
 https://docs.google.com/presentation/d/1dImJsHzd4QwMWpMc3vhF3w50E9WGPHR4emFxLQAeuMI/edit?usp=sharing
 
-# 🧮 PyQt6 괄호 계산기 — UX·디자인패턴 실습
+# 프로젝트 : PyQt6를 활용하여 Iphone 계산기 구현 
 
 ## 1. 프로젝트 목표
-- **UX-First** : 실제 전자계산기와 동일한 입력 흐름(괄호·음수·우선순위·오류 메시지) 구현으로 *입력 오류 0 %* 달성  
+- *사용자 UX를 위한 GUI 설계** : 실제 전자계산기와 동일한 입력 흐름(괄호·음수·우선순위·오류 메시지) 구현으로 *입력 오류 0 %* 달성  
 - **디자인패턴 학습** : **State / Strategy / Factory** 패턴 통합 적용으로 기능 확장·유지보수 난이도 최소화  
 - **정밀 계산** : Shunting-Yard(중위→후위) + `decimal.Decimal` 스택 평가로 부동소수점 오차 제거  
 - **테스트 주도 개발** : 정상·예외 흐름 45 개 시나리오 전부 통과(성공률 100 %)
