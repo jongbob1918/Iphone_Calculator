@@ -7,7 +7,7 @@
 ---
 ## 1. 폴더 구조 
 ```bash
-qt-calculator/
+kimjongmyung/
 ├── main.py                # 애플리케이션 시작점 · 전체 초기화 & 실행
 ├── ui_module.py           # PyQt6 기반 GUI 구현 · 사용자 입력 처리 & 결과 표시
 ├── calculator_module.py   # 핵심 계산 로직 · 상태 관리 & 연산 수행
@@ -21,8 +21,8 @@ qt-calculator/
 ## 2. 실행 방법
 ```bash
 # 1) 저장소 클론
-git clone https://github.com/<your-id>/qt-calculator.git
-cd qt-calculator
+[git clone https://github.com/<your-id>/qt-calculator.gi](https://github.com/jongbob1918/PyQt6_Calculator.git)
+cd kimjongmyung
 
 # 2) 의존성 설치
 pip install -r requirements.txt
