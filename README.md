@@ -22,8 +22,8 @@ kimjongmyung/
 ## 2. 실행 방법
 ```bash
 # 1) 저장소 클론
-[git clone https://github.com/<your-id>/qt-calculator.gi](https://github.com/jongbob1918/PyQt6_Calculator.git)
-cd kimjongmyung
+git clone git@github.com:jongbob1918/PyQt6_Calculator.git
+cd PyQt6_Calculator/kimjongmyung
 
 # 2) 의존성 설치
 pip install PyQt6
